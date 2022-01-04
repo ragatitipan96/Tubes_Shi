@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "308702147152",
+    "project_id": "chat-shi",
+    "storage_bucket": "chat-shi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308702147152:android:fdb4819c57e7f590ab1755",
+        "android_client_info": {
+          "package_name": "com.shi_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308702147152-okorcd57bppj0hdtqreadrke70kp3t26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shi_chat",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "308702147152-msi1h05orci216v0brb8c4kaqpef393r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuD0QKc8edeuPeHCn3h7OjNRwZ7bk8Dnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308702147152-msi1h05orci216v0brb8c4kaqpef393r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
